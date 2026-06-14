@@ -1,0 +1,6 @@
+{
+  "name": "Math 5 IB",
+  "description": "An interactive Grade 5 PYP math learning quest with visual coordinate planes, fractional slicing, volume builders, and progress tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
